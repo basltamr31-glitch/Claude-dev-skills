@@ -35,9 +35,7 @@ Use this Skill when you want Claude to:
 
 ## Contents
 
-- `skill.md` — The Claude Skill prompt.
-- `examples/` — Example inputs and outputs.
-- `images/` — Optional screenshots.
+- `android-ui-polish.skill` — The Claude Skill prompt.
 
 ---
 
