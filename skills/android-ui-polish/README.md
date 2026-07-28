@@ -35,7 +35,7 @@ Use this Skill when you want Claude to:
 
 ## Contents
 
-- `android-ui-polish.skill` — The Claude Skill prompt.
+- `android-ui-polish.skill` — The Claude Skill prompt. You can add it immediately to your Claude code skills
 
 ---
 
